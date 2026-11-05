@@ -1,4 +1,4 @@
-# Clinic Appointment App
+# AGILE-EXAM
 
 A Python clinic appointment app with a dependency-free command-line interface
 and a reusable appointment-slot availability check.
